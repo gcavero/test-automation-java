@@ -22,3 +22,6 @@ There are a couple of good reasons to use Java:
 * It's been around for a while so there are a lot of solutions for most problems and if not then somebody from the community will be able to suggest an answer quickly.
 * It's OpenSource - there are large, well supported communities sharing free libraries.
 * Because of the above two points it's possible to automate (testing) checking for iOS (Web and Native), Android (Web and Native) and Web platforms.
+
+
+//testing changes
