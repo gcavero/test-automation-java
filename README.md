@@ -24,4 +24,4 @@ There are a couple of good reasons to use Java:
 * Because of the above two points it's possible to automate (testing) checking for iOS (Web and Native), Android (Web and Native) and Web platforms.
 
 
-//testing changes
+//testing changes. Updating 
